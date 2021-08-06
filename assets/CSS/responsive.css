@@ -1,0 +1,26 @@
+@media screen and (max-width: 499px){
+    .box{
+        width: 85%;
+    }
+    h1, h2{
+        font-size: 2.4rem;
+    }
+}
+
+@media (min-width: 500px) and (max-width: 650px){
+    .box{
+        width: 50%;
+    }
+    h1, h2{
+        font-size: 2.4rem;
+    }
+}
+
+@media (min-width: 650px) and (max-width: 850px){
+    .box{
+        width: 35%;
+    }
+    h1, h2{
+        font-size: 2.4rem;
+    }
+}

@@ -1,0 +1,18 @@
+:root{
+    --pink: #f73e94;
+    --green: #16d6ac;
+}
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    user-select: none;
+}
+
+.flexCenter{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
